@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Solaceisastar
 - 👀 I’m interested in coding,web designs and app dev
 - 🌱 I’m currently learning coding (Python)
-- 💞️ I’m looking to collaborate with senior coders and learn from them
+- 💞️ I’m looking to collaborate with other programmers s and learn from them
 - 📫 How to reach me solacelorraine@gmail.com
 
 <!---
